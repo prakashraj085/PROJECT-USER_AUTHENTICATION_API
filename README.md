@@ -1,1 +1,4 @@
 # USER_AUTHENTICATION_API
+
+This project, crafted with Node.js and Express.js, seamlessly integrates MongoDB for efficient data management. Notable security measures include the incorporation of bcrypt for robust password hashing, enhancing user data protection. The implementation of JSON Web Tokens (JWT) for authentication adds an additional layer of security, ensuring a seamless and secure user experience.Additionally, the API incorporates user-friendly functionalities such as account creation, login sessions, password reset, logout sessions, and account deletion, significantly enhancing the overall user experience. These features collectively contribute to a seamless and secure user journey, allowing users to
+manage their accounts with ease and providing a comprehensive set of tools for optimal account security and control.
